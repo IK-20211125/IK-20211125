@@ -5,10 +5,6 @@
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=IK-20211125&theme=dark&show_icons=ture" />
 </p>
 
- <a href="https://github.com/yutkat/yutkat/">
-    <img src="https://komarev.com/ghpvc/?username=yutkat" alt="yutkat" />
-  </a>
-
 <!--
 **IK-20211125/IK-20211125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
