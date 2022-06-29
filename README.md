@@ -1,4 +1,4 @@
-## Welcome to my GitHub ! <img alt="GIF" src="https://github.com/hongbeomi/hongbeomi/blob/master/android-studio.gif" width="4%" />
+## Welcome to my GitHub ! 　<img alt="GIF" src="https://github.com/hongbeomi/hongbeomi/blob/master/android-studio.gif" width="4%" />
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IK-20211125&show_icons=true&theme=dark" />
