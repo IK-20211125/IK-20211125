@@ -4,6 +4,8 @@
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IK-20211125&show_icons=true&theme=dark" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=IK-20211125&theme=dark&show_icons=ture" />
 </p> 
+<a href="https://ik-20211125.github.io/">ホームページ</a>
+<br><br>
 <a href="https://github.com/IK-20211125/IK-20211125">
     <img src="https://komarev.com/ghpvc/?username=IK-20211125&color=lightgrey"/>
     </a>
